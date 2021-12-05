@@ -1,0 +1,15 @@
+{
+  "name": "cmict.dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/evlon/cmict.dev.git",
+  "author": "evlon <liamgnc@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "fastify": "^3.24.0",
+    "fastify-http-proxy": "^6.2.1"
+  }
+}
